@@ -57,5 +57,10 @@
     {
         "id": 15,
         "fact": "A creeper will drop a random music disc if a skeleton kills it."
+    },
+    
+    {
+        "id": 16,
+        "fact": "Creepers in Minecraft detonate because they get very nervous and shake a lot, setting themselves off in a similar way to how the rubbing of two sticks starts a fire."
     }
 ]
